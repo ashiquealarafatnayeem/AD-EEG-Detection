@@ -33,6 +33,7 @@ A complete digital signal processing pipeline that turns a 19-channel, eyes-clos
 ## Repository contents
 
 ```
+docs/           report, presentation
 src/            all code: core modules and the numbered analysis scripts (run in order)
 figures/        every figure produced by the scripts
 results/        small result tables (features, predictions, summaries)
