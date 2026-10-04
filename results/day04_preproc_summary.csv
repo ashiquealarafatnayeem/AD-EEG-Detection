@@ -1,0 +1,4 @@
+subject,group,dur_s,sfreq,ica_excluded,n_made,n_kept,drop_pct,seconds
+sub-001,AD,579.8,250.0,[0],288,285,1.0,10.3
+sub-037,CN,757.1,250.0,[1],377,357,5.3,14.0
+sub-066,FTD,531.1,250.0,[0],264,251,4.9,6.6

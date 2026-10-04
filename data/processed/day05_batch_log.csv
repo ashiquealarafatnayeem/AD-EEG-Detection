@@ -1,0 +1,89 @@
+subject,group,status,dur_s,ica_method,n_ica_removed,ica_excluded,n_made,n_kept,drop_pct,seconds
+sub-001,AD,ok,579.8,find_bads_eog,1,[0],288,285,1.0,11.0
+sub-002,AD,ok,773.1,find_bads_eog,1,[1],385,379,1.6,13.3
+sub-003,AD,ok,287.1,correlation fallback,1,[0],142,140,1.4,7.5
+sub-004,AD,ok,687.1,find_bads_eog,2,"[0, 1]",342,325,5.0,23.3
+sub-005,AD,ok,784.1,find_bads_eog,1,[0],391,339,13.3,14.3
+sub-006,AD,ok,617.1,find_bads_eog,1,[2],307,305,0.7,8.7
+sub-007,AD,ok,749.1,find_bads_eog,1,[0],373,371,0.5,18.6
+sub-008,AD,ok,779.1,correlation fallback,1,[0],388,312,19.6,30.7
+sub-009,AD,ok,593.6,find_bads_eog,1,[0],295,295,0.0,16.1
+sub-010,AD,ok,1271.1,find_bads_eog,1,[0],634,632,0.3,13.9
+sub-011,AD,ok,751.6,find_bads_eog,2,"[1, 3]",374,311,16.8,16.2
+sub-012,AD,ok,878.3,correlation fallback,1,[0],438,365,16.7,22.3
+sub-013,AD,ok,820.1,find_bads_eog,1,[3],409,373,8.8,11.8
+sub-014,AD,ok,925.2,find_bads_eog,2,"[0, 1]",461,416,9.8,17.2
+sub-015,AD,ok,890.1,correlation fallback,1,[2],444,427,3.8,13.4
+sub-016,AD,ok,965.1,correlation fallback,0,[],481,397,17.5,11.5
+sub-017,AD,ok,827.1,find_bads_eog,1,[2],412,372,9.7,13.5
+sub-018,AD,ok,827.1,correlation fallback,1,[4],412,406,1.5,10.1
+sub-019,AD,ok,900.3,find_bads_eog,1,[0],449,428,4.7,8.5
+sub-020,AD,ok,849.3,find_bads_eog,1,[0],423,407,3.8,10.4
+sub-021,AD,ok,903.3,find_bads_eog,1,[0],450,431,4.2,14.5
+sub-022,AD,ok,803.6,find_bads_eog,2,"[1, 2]",400,323,19.2,15.2
+sub-023,AD,ok,842.6,find_bads_eog,1,[5],420,353,16.0,16.1
+sub-024,AD,ok,747.5,correlation fallback,1,[0],372,369,0.8,10.9
+sub-025,AD,ok,678.4,find_bads_eog,1,[0],338,302,10.7,15.3
+sub-026,AD,ok,897.4,find_bads_eog,1,[0],447,240,46.3,15.4
+sub-027,AD,ok,810.9,correlation fallback,1,[2],404,316,21.8,36.7
+sub-028,AD,ok,806.5,find_bads_eog,1,[0],402,389,3.2,28.3
+sub-029,AD,ok,720.7,correlation fallback,1,[2],359,305,15.0,28.4
+sub-030,AD,ok,537.1,correlation fallback,1,[2],267,151,43.4,21.9
+sub-031,AD,ok,1136.8,find_bads_eog,1,[1],567,512,9.7,37.8
+sub-032,AD,ok,834.9,find_bads_eog,1,[0],416,401,3.6,21.6
+sub-033,AD,ok,687.1,find_bads_eog,1,[0],342,342,0.0,18.5
+sub-034,AD,ok,950.9,correlation fallback,1,[0],474,428,9.7,34.5
+sub-035,AD,ok,737.1,correlation fallback,1,[0],367,359,2.2,22.6
+sub-036,AD,ok,833.1,correlation fallback,1,[1],415,392,5.5,22.0
+sub-037,CN,ok,757.1,correlation fallback,1,[1],377,357,5.3,30.9
+sub-038,CN,ok,874.1,correlation fallback,1,[9],436,401,8.0,32.9
+sub-039,CN,ok,837.1,correlation fallback,1,[2],417,399,4.3,32.9
+sub-040,CN,ok,997.1,correlation fallback,0,[],497,454,8.7,46.1
+sub-041,CN,ok,867.1,find_bads_eog,1,[2],432,382,11.6,27.2
+sub-042,CN,ok,955.1,find_bads_eog,1,[2],476,416,12.6,24.5
+sub-043,CN,ok,809.1,find_bads_eog,1,[4],403,397,1.5,35.7
+sub-044,CN,ok,861.6,find_bads_eog,1,[1],429,429,0.0,26.1
+sub-045,CN,ok,842.7,find_bads_eog,1,[0],420,376,10.5,36.3
+sub-046,CN,ok,738.4,correlation fallback,0,[],368,322,12.5,31.3
+sub-047,CN,ok,788.0,correlation fallback,1,[5],393,371,5.6,38.5
+sub-048,CN,ok,993.4,find_bads_eog,1,[2],495,350,29.3,39.3
+sub-049,CN,ok,764.2,correlation fallback,1,[2],381,379,0.5,31.4
+sub-050,CN,ok,806.7,find_bads_eog,1,[0],402,358,10.9,31.1
+sub-051,CN,ok,767.3,find_bads_eog,1,[1],382,334,12.6,20.6
+sub-052,CN,ok,741.1,find_bads_eog,1,[0],369,360,2.4,19.4
+sub-053,CN,ok,779.3,correlation fallback,1,[0],388,318,18.0,26.3
+sub-054,CN,ok,822.3,find_bads_eog,1,[1],410,394,3.9,26.5
+sub-055,CN,ok,804.0,find_bads_eog,1,[2],401,401,0.0,20.5
+sub-056,CN,ok,865.4,correlation fallback,1,[1],431,427,0.9,36.9
+sub-057,CN,ok,776.5,correlation fallback,1,[1],387,387,0.0,8.3
+sub-058,CN,ok,742.8,correlation fallback,0,[],370,351,5.1,13.3
+sub-059,CN,ok,769.8,find_bads_eog,1,[0],383,383,0.0,18.8
+sub-060,CN,ok,731.5,find_bads_eog,2,"[0, 1]",364,355,2.5,34.9
+sub-061,CN,ok,787.3,correlation fallback,1,[0],392,356,9.2,30.0
+sub-062,CN,ok,892.1,find_bads_eog,2,"[0, 1]",445,409,8.1,31.3
+sub-063,CN,ok,789.3,correlation fallback,1,[6],393,387,1.5,24.8
+sub-064,CN,ok,829.1,find_bads_eog,1,[1],413,356,13.8,22.5
+sub-065,CN,ok,864.1,find_bads_eog,2,"[0, 1]",431,407,5.6,22.2
+sub-066,FTD,ok,531.1,find_bads_eog,1,[0],264,251,4.9,15.6
+sub-068,FTD,ok,554.1,find_bads_eog,1,[0],276,268,2.9,15.3
+sub-069,FTD,ok,617.1,correlation fallback,1,[1],307,303,1.3,17.0
+sub-070,FTD,ok,459.1,find_bads_eog,1,[0],228,228,0.0,14.9
+sub-071,FTD,ok,603.6,correlation fallback,1,[1],300,300,0.0,17.3
+sub-072,FTD,ok,641.1,find_bads_eog,1,[0],319,309,3.1,16.9
+sub-073,FTD,ok,837.6,find_bads_eog,1,[0],417,410,1.7,30.1
+sub-074,FTD,ok,1006.9,correlation fallback,0,[],502,426,15.1,33.8
+sub-075,FTD,ok,731.2,find_bads_eog,1,[1],364,327,10.2,23.3
+sub-076,FTD,ok,798.8,find_bads_eog,2,"[0, 9]",398,364,8.5,36.1
+sub-077,FTD,ok,684.5,find_bads_eog,1,[0],341,314,7.9,32.2
+sub-078,FTD,ok,855.6,find_bads_eog,1,[0],426,408,4.2,44.4
+sub-079,FTD,ok,804.4,find_bads_eog,1,[0],401,381,5.0,32.7
+sub-080,FTD,ok,910.9,correlation fallback,1,[2],454,414,8.8,32.9
+sub-081,FTD,ok,809.5,find_bads_eog,1,[0],403,395,2.0,28.6
+sub-082,FTD,ok,757.6,find_bads_eog,1,[0],377,364,3.4,25.7
+sub-083,FTD,ok,893.2,find_bads_eog,1,[0],445,427,4.0,33.9
+sub-084,FTD,ok,632.1,correlation fallback,1,[1],315,299,5.1,22.4
+sub-085,FTD,ok,546.1,correlation fallback,2,"[2, 3]",272,190,30.1,10.1
+sub-086,FTD,ok,635.6,find_bads_eog,1,[4],316,16,94.9,6.6
+sub-087,FTD,ok,586.1,find_bads_eog,2,"[0, 1]",292,286,2.1,6.4
+sub-088,FTD,ok,774.1,find_bads_eog,1,[0],386,380,1.6,8.5
+sub-067,FTD,ok,623.1,find_bads_eog,1,[0],310,227,26.8,12.2
